@@ -6,7 +6,7 @@ After studying java core and object oreiented concept, I decided to work on some
  Tools Required: 1) JDK(Java Development Kit) of latest version
                  2) IDE to execute your project (E.g. Eclipse IDE, Intellij IDE, Apache NETBEANS)
                  
-                 Remember if your system doesn't have JDK and any IDE, please install first jdk and then eclipse for comptabilities of ide with JDK
+                 Remember if your system doesn't have JDK and any IDE, please install first jdk and then eclipse for comptabilities issues of ide with JDK
                  
 What will you get:-
 
