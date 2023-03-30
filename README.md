@@ -1,6 +1,6 @@
 # Password-Generator
 Hello!!
-This is mini java "console based application" where you will be getting random password and checking strength of generated or your own password.
+This is mini java "console based application" project where you will be getting random password and checking strength of generated or your own password.
 After studying java core and object oreiented concept, I decided to work on some core java mini projects.
  
  Tools Required: 1) JDK(Java Development Kit) of latest version
